@@ -1,0 +1,11 @@
+print("this file was created in vs code")
+print("student_name:", "Ali")
+print("age:",23)
+print("country:", "Kenya")
+print("course:", "python & ai learning")
+print("hello Ali")
+print("has laptop:",  "True")
+
+print(type("Ali"))
+print(type(23))
+print(type("has_laptop"))
