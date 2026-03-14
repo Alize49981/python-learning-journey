@@ -1,6 +1,6 @@
 name = input("enter your name: ")
 print("my name is", name)
-age = input("how old are you: ")
+age = int(input("how old are you: "))
 print("i am "+age+" years old")
 school = input("enter your school: ")
 print("my school is", school )

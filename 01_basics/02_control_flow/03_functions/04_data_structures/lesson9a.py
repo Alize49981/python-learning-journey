@@ -1,4 +1,4 @@
-student = ("Ali", 23, ("Kenya"))
+student = ("Ali", 23, "Kenya")
 print(student[0])
 print(student[1])
 print(student[2])
