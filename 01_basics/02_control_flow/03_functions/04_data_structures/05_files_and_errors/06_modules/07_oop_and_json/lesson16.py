@@ -10,10 +10,11 @@ df = pd.DataFrame(data)
 print(df)
 
 print(df.head())     
-df.tail()     
-df.shape     
-df.columns  
+print(df.tail())     
+print(df.shape)     
+print(df.columns)  
 df = pd.read_csv("students.csv")
 print(df.head())
+
 
 
